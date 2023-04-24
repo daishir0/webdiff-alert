@@ -25,7 +25,7 @@ python webdiff_alert.py
 
 ## Notes
 
--   The tool uses single-threading to process URLs sequentially. As the number of URLs increases, the processing time will be longer, but errors should not occur.
+-   The tool uses single-threading to process URLs sequentially. As the number of URLs increases, the processing time will be longer.
 
 ## License
 
@@ -60,7 +60,7 @@ python webdiff_alert.py
 
 ## 注意事項
 
--   ツールはシングルスレッドを使用してURLを順次処理します。URLの数が増えると、処理時間が長くなりますが、エラーは発生しません。
+-   ツールはシングルスレッドを使用してURLを順次処理します。URLの数が増えると、処理時間が長くなります。
 
 ## ライセンス
 
